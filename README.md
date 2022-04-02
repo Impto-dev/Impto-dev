@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Reaper Discord Tool**
+- 🔭 I’m currently working on **Reaper Discord Bot**
 - 🌱 I’m currently learning **C++, JavaScript, Python And c#**
 - 📫 How to reach me: **Through my discord server!**
 - ⚡ Fun fact: **Psycho was the first movie to show a toilet flushing!**
