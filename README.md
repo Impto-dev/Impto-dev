@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Reaper Discord Bot**
 - 🌱 I’m currently learning **C++, JavaScript, Python And c#**
 - 📫 How to reach me: **Through my discord (Impto#1560)!**
-- <a img src="https://discord.c99.nl/widget/theme-2/709778694264061974.png"/></a>
+- <a <img src="https://discord.c99.nl/widget/theme-2/814811294963990530.png"/></a>
 - ⚡ Fun fact: **Psycho was the first movie to show a toilet flushing!**
 
 
