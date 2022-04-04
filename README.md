@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on **Discord Chat Logger**
 - 🌱 I’m currently learning **C++, JavaScript, Python And C#**
 - 📫 How to reach me: **Through my discord!**
-- <img src="https://discord.c99.nl/widget/theme-2/709778694264061974.png"/></a>
+- <img src="https://discord.c99.nl/widget/theme-2/709778694264061974.png
+- https://discord.c99.nl/widget/theme-3/709778694264061974.png"/></a>
 - ⚡ Fun fact: **Psycho was the first movie to show a toilet flushing!**
 
 
