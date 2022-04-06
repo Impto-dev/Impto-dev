@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Discord Chat Logger**
+- 🔭 I’m currently working on **Nothing Curently**
 - 🌱 I’m currently learning **C++, JavaScript, Python And C#**
 - 📫 How to reach me: **Through my discord!**
 - <img src="https://discord.c99.nl/widget/theme-3/709778694264061974.png"/></a>
