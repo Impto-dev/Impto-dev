@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there! My Name Is Impto!</h1>
 <h4 align="center">I am a 15 year old cybersecurity enthusiast and Full-Stack Developer! If you enjoy my creations, drop a follow & star my repos!</h3>
-- ![](https://komarev.com/ghpvc/?username=impto-dev)
 
+- ![](https://komarev.com/ghpvc/?username=impto-dev)
 - 🔭 I’m currently working on **Nothing Curently**
 - 🌱 I’m currently learning **C++, JavaScript, Python And C#**
 - 📫 How to reach me: **Through my discord!**
