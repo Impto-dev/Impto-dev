@@ -6,6 +6,7 @@
 - 📫 How to reach me: **Through my discord!**
 - <img src="https://discord.c99.nl/widget/theme-3/709778694264061974.png"/></a>
 - ⚡ Fun fact: **Psycho was the first movie to show a toilet flushing!**
+- ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 ---
