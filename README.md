@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello there! My Name Is Impto!</h1>
-<h4 align="center">I am a 15 year old cybersecurity enthusiast and Full-Stack Developer! If you enjoy my creations, drop a follow & star my repos!</h3>
+<h4 align="center">I am a 16 year old cybersecurity enthusiast and Full-Stack Developer! If you enjoy my creations, drop a follow & star my repos!</h3>
 
 ---
 
-- 🔭 I’m currently working on **Nothing Curently**
+- 🔭 I’m currently working on **RDR2 Mod Menu**
 - 🌱 I’m currently learning **C++, JavaScript, Python And C#**
 - 📫 How to reach me: **Through my discord!**
-- <img src="https://discord.c99.nl/widget/theme-3/709778694264061974.png"/></a>
+- <img src="https://discord.c99.nl/widget/theme-1/709778694264061974.png "/></a>
 - ⚡ Fun fact: **Psycho was the first movie to show a toilet flushing!**
 
 
