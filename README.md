@@ -12,17 +12,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Impto-dev&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Cyber%20Security%20Enthusiast&descAlignY=55&descAlign=50&descSize=20&fontColor=FFFFFF&stroke=1&strokeColor=1e2a4a" alt="Header" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Galaxy-0a0a23?style=for-the-badge&logo=star&logoColor=white">
-  <img src="https://img.shields.io/badge/Stars-%E2%AD%90-1e2a4a?style=for-the-badge&logo=star&logoColor=white">
-</p>
-
 ---
 
 ## 🚀 About Me
 I'm a passionate developer currently working on **Zadex Hosting**! I love exploring new technologies, building cool stuff, and diving deep into cybersecurity. My interests span from web development to security research and ethical hacking.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-1e2a4a?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +53,7 @@ I'm a passionate developer currently working on **Zadex Hosting**! I love explor
 
 ---
 
-## ⭐ Repository Stats
+## 📦 Repository Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impto-dev&repo=LightShot-Scraper&theme=radical&bg_color=0a0a23&text_color=FFFFFF&title_color=1e2a4a" alt="Repository Stats" />
 </div>
@@ -69,8 +64,4 @@ I'm a passionate developer currently working on **Zadex Hosting**! I love explor
   <br/>
   <img src="https://img.shields.io/github/followers/Impto-dev?label=Followers&style=social&color=1e2a4a" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Impto-dev?label=Stars&style=social&color=1e2a4a" alt="Stars" />
-</div>
-
-<p align="center">
-  ✨🌌⭐
-</p> 
+</div> 
