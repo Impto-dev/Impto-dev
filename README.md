@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I'm Impto!
 
-<!--
-**Impto-dev/Impto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+profile!;Full+Stack+Developer;Working+on+Zadex+Hosting" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer currently working on **Zadex Hosting**! I love exploring new technologies, building cool stuff, and diving deep into cybersecurity. My interests span from web development to security research and ethical hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2E8BC0?style=for-the-badge&logo=shield&logoColor=white)
+</div>
+
+## 🌟 Current Project
+<div align="center">
+  <h3>🚀 Working on Zadex Hosting</h3>
+  <p>Building the future of hosting solutions!</p>
+</div>
+
+## 📫 Connect with Me
+<div align="center">
+  <a href="https://discord.com/users/709778694264061974">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0acs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0acs&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0acs&style=flat-square&color=blue" alt="Profile Views" />
+</div> 
