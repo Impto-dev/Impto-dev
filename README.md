@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Impto-dev!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Impto-dev/Impto-dev/main/impto-banner.png" alt="Impto Banner" width="350" style="border-radius: 10px; box-shadow: 0 0 20px #0a0a23;" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+galaxy!;Full+Stack+Developer;Working+on+Zadex+Hosting" alt="Typing SVG" />
 </div>
 
