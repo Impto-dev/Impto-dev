@@ -43,7 +43,7 @@ I'm a passionate developer currently working on **Zadex Hosting**! I love explor
 
 ## ⭐ Repository Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impto-dev&repo=Impto-dev&theme=radical&bg_color=0d1117&text_color=9B4DCA&title_color=9B4DCA" alt="Repository Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impto-dev&repo=LightShot-Scraper&theme=radical&bg_color=0d1117&text_color=9B4DCA&title_color=9B4DCA" alt="Repository Stats" />
 </div>
 
 ---
