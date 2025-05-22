@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-banner.herokuapp.com/Impto-dev" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8BC0&height=200&section=header&text=Impto-dev&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Cyber%20Security%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 ## 🚀 About Me
@@ -30,13 +30,6 @@ I'm a passionate developer currently working on **Zadex Hosting**! I love explor
 <div align="center">
   <h3>🚀 Working on Zadex Hosting</h3>
   <p>Building the future of hosting solutions!</p>
-</div>
-
-## 📫 Connect with Me
-<div align="center">
-  <a href="https://discord.com/users/709778694264061974" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 ## 📊 GitHub Stats
