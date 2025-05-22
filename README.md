@@ -1,7 +1,11 @@
-# 👋 Hi there, I'm Impto!
+# 👋 Hi there, I'm Impto-dev!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+profile!;Full+Stack+Developer;Working+on+Zadex+Hosting" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-banner.herokuapp.com/Impto-dev" alt="Banner" />
 </div>
 
 ## 🚀 About Me
@@ -30,19 +34,29 @@ I'm a passionate developer currently working on **Zadex Hosting**! I love explor
 
 ## 📫 Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/709778694264061974">
+  <a href="https://discord.com/users/709778694264061974" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0acs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0acs&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Impto-dev&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impto-dev&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## ⭐ Repository Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impto-dev&repo=Impto-dev&theme=radical" alt="Repository Stats" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0acs&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Impto-dev&style=flat-square&color=blue" alt="Profile Views" />
+  <br/>
+  <img src="https://img.shields.io/github/followers/Impto-dev?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Impto-dev?label=Stars&style=social" alt="Stars" />
 </div> 
