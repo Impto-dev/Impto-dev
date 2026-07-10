@@ -41,9 +41,10 @@ I build practical software, explore AI automation, and care about secure, reliab
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=cbd5e1&icon_color=06b6d4&ring_color=06b6d4" alt="Impto GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&theme=radical&bg_color=0f172a&text_color=ffffff&title_color=06b6d4&icon_color=06b6d4&hide_border=true" alt="Impto GitHub statistics" />
 </div>
 
 <div align="center">
   <sub>Build carefully. Test everything. Keep control of the important decisions.</sub>
 </div>
+
