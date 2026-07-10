@@ -1,63 +1,49 @@
-# 👋 Hi there, I'm Impto-dev!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+galaxy!;Full+Stack+Developer;Working+on+Zadex+Hosting" alt="Typing SVG" />
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=180&section=header&text=Impto&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20practical%20AI%20systems%20and%20web%20products&descSize=18&descAlignY=58" alt="Impto profile banner" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Impto-dev&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Cyber%20Security%20Enthusiast&descAlignY=55&descAlign=50&descSize=20&fontColor=FFFFFF&stroke=1&strokeColor=1e2a4a" alt="Header" />
+  <a href="https://github.com/Impto-dev"><img src="https://img.shields.io/github/followers/Impto-dev?label=Follow&style=for-the-badge&logo=github&color=0f172a" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Impto-dev&style=for-the-badge&color=06b6d4" alt="Profile views" />
 </div>
 
----
+## About me
 
-## 🚀 About Me
-I'm a passionate developer currently working on **Zadex Hosting**! I love exploring new technologies, building cool stuff, and diving deep into cybersecurity. My interests span from web development to security research and ethical hacking.
+I build practical software, explore AI automation, and care about secure, reliable systems. My current focus is turning ideas into usable tools with clear approval steps, testing, and monitoring built in.
 
-## 💻 Tech Stack
+## Current focus: VentureForge
+
+**VentureForge** is a local-first AI business builder. It turns an approved business plan into safe, tested implementation work.
+
+- AI planning and persistent task boards
+- Owner approval gates for important actions
+- Local developer and tester agents
+- Live control dashboard and error monitoring
+- Built as a private prototype before any real payments, customer data, or deployment
+
+## Tools I use
+
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-1e2a4a?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a23?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-223366?style=for-the-badge&logo=go&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-0a0a23?style=for-the-badge&logo=rust&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-1e2a4a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-223366?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-0a0a23?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1e2a4a?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-223366?style=for-the-badge&logo=php&logoColor=white)
-  ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-0a0a23?style=for-the-badge&logo=shield&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AI%20Automation-06b6d4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
 </div>
 
----
+## What I am working on
 
-## 🌟 Current Project
+- Building reliable AI-agent workflows that stay under human control
+- Improving full-stack development skills with Python and TypeScript
+- Learning more about secure software design and operational monitoring
+
+## GitHub activity
+
 <div align="center">
-  <h3>🚀 Working on Zadex Hosting</h3>
-  <p>Building the future of hosting solutions!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=cbd5e1&icon_color=06b6d4&ring_color=06b6d4" alt="Impto GitHub statistics" />
 </div>
 
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&theme=radical&bg_color=0a0a23&text_color=FFFFFF&title_color=1e2a4a&icon_color=1e2a4a" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Impto-dev&theme=radical&background=0a0a23&stroke=1e2a4a&ring=1e2a4a&fire=1e2a4a&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impto-dev&layout=compact&theme=radical&bg_color=0a0a23&text_color=FFFFFF&title_color=1e2a4a" alt="Top Languages" />
+  <sub>Build carefully. Test everything. Keep control of the important decisions.</sub>
 </div>
-
----
-
-## 📦 Repository Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impto-dev&repo=LightShot-Scraper&theme=radical&bg_color=0a0a23&text_color=FFFFFF&title_color=1e2a4a" alt="Repository Stats" />
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Impto-dev&style=flat-square&color=1e2a4a" alt="Profile Views" />
-  <br/>
-  <img src="https://img.shields.io/github/followers/Impto-dev?label=Followers&style=social&color=1e2a4a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Impto-dev?label=Stars&style=social&color=1e2a4a" alt="Stars" />
-</div> 
