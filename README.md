@@ -28,6 +28,8 @@ I build practical software, explore AI automation, and care about secure, reliab
   <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/AI%20Automation-06b6d4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
 </div>
@@ -38,13 +40,13 @@ I build practical software, explore AI automation, and care about secure, reliab
 - Improving full-stack development skills with Python and TypeScript
 - Learning more about secure software design and operational monitoring
 
-## GitHub activity
+## Also exploring
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Impto-dev&show_icons=true&theme=radical&bg_color=0f172a&text_color=ffffff&title_color=06b6d4&icon_color=06b6d4&hide_border=true" alt="Impto GitHub statistics" />
-</div>
-
+- C++ and C# for native tools, desktop applications, and systems work
+- AI-assisted workflows that remain transparent and owner-controlled
+- Better monitoring, testing, and security practices for every project
 <div align="center">
   <sub>Build carefully. Test everything. Keep control of the important decisions.</sub>
 </div>
+
 
